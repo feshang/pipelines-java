@@ -1,4 +1,3 @@
-[![Build Status](https://dev.azure.com/KFeshangchi/java-sample-pipeline/_apis/build/status/feshang.pipelines-java?branchName=master)](https://dev.azure.com/KFeshangchi/java-sample-pipeline/_build/latest?definitionId=7&branchName=master)
 
 # Contributing
 
